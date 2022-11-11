@@ -1,0 +1,13 @@
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\bin\Debug\paginadaPlanta.exe.config
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\bin\Debug\paginadaPlanta.exe
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\bin\Debug\paginadaPlanta.pdb
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\obj\Debug\paginadaPlanta.csproj.AssemblyReference.cache
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\obj\Debug\paginadaPlanta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\obj\Debug\paginadaPlanta.Form1.resources
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\obj\Debug\paginadaPlanta.Properties.Resources.resources
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\obj\Debug\paginadaPlanta.csproj.GenerateResource.cache
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\obj\Debug\paginadaPlanta.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\obj\Debug\paginadaPlanta.exe
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\obj\Debug\paginadaPlanta.pdb
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\obj\Debug\paginadaPlanta.telaCompra.resources
+C:\Users\Aluno.SNCCHLAB02F07\source\repos\paginadaPlanta\paginadaPlanta\obj\Debug\paginadaPlanta.TelaCompra1.resources
